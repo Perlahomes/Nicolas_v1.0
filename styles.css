@@ -13,8 +13,8 @@ body {
     
 }
 .Nicolas {
-    background-color: #ebd9b7;
-    color: #111111;
+    background-color: #5b7473;
+    color: #e2c487;
     font-family: Georgia, 'Times New Roman', Times, serif;
     padding: 20px;
     text-align: center;
@@ -55,6 +55,7 @@ header p {
 
 .instructions {
     margin-top: 20px;
+    background-color: #acbcb4;
 }
 
 .step {
@@ -64,7 +65,7 @@ header p {
 .step h2 {
     font-size: 1.4rem;
     margin-bottom: 10px;
-    color: #007BFF;
+    color: e2c487;
 }
 
 .step p {
