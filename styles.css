@@ -31,7 +31,7 @@ body {
 }
 
 header {
-    height: 250px;  /* Adjust height of the header */
+    height: 200px;  /* Adjust height of the header */
     background-image: url('images/perla-homes-logo-black-1024x508.png');  /* Set your image path here */
     background-size: cover;  /* Cover the whole header with the image */
     background-position: center;  /* Center the image */
