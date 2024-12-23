@@ -8,14 +8,15 @@
 /* Layout styles */
 body {
     font-family: Arial, sans-serif;
-    background-color: #5b7473;
+    background-color:#fcfcfa;
+    color: #070707;
     
 }
 .Nicolas {
     background-color: #5b7473;
     color: #e2c487;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    padding: 20px;
+    padding: 25px;
     text-align: center;
 }
 
@@ -38,6 +39,7 @@ header {
     justify-content: center;  /* Center the text horizontally */
     align-items: center;  /* Center the text vertically */
     text-align: center;  /* Center text inside */
+    background-color:#5b7473;
     
 
 }
@@ -85,7 +87,7 @@ footer {
     margin-top: 30px;
     font-size: 1.1rem;
     color: #e2c487;
-    background-color: #5b7473;
+    background-color: #acbcb4;
     padding: 25px;
 }
 .thumbnail {
